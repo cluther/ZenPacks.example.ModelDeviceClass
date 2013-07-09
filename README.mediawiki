@@ -1,0 +1,5 @@
+This ZenPack demonstrates how a device's device class can be changed through a modeler plugin.
+
+See the following files:
+* ZenPacks/example/ModelDeviceClass/__init__.py
+* ZenPacks/example/ModelDeviceClass/modeler/plugins/example/ModelDeviceClass.py
